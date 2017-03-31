@@ -1,6 +1,6 @@
 # ScreenAdapterGenerator
 
-###此java文件可以生成Android 对应的屏幕尺寸文件.
+### 此java文件可以生成Android 对应的屏幕尺寸文件.
 
 > **可以直接使用jar来生成,调用方式为: java -jar ScreenParams.jar 720 1280**
 
